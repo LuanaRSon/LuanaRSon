@@ -1,7 +1,7 @@
 <h1> Olá! Sou a <strong>Luana</strong>. </h1> 
 
 <p>
-  Sou aluna do CodeClub e uma dev em formação! 
+  Sou aluna do DevClub e uma dev em formação! 
 </p>
 <p> 
   Você também pode me encontrar no <a href="https://www.linkedin.com/in/luana-raissa-sonaglio-7122ab11a/">Linkedin</a>. 
