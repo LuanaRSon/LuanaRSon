@@ -1,7 +1,7 @@
 <h1> Olá! Sou a <strong>Luana</strong>. </h1> 
 
 <p>
-  Sou aluna do DevClub e uma dev em formação! 
+  Trabalho com QA e estou em busca de mais conhecimento técnico! 
 </p>
 <p> 
   Você também pode me encontrar no <a href="https://www.linkedin.com/in/luana-raissa-sonaglio-7122ab11a/">Linkedin</a>. 
@@ -15,10 +15,7 @@
  
   TypeScript, Bootstrap, React Native;
   
-<hr>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanaRSon&theme=buefy&show_icons=true" />
- 
+<hr> 
  
   
   
